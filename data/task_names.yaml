@@ -1,0 +1,86 @@
+structured_puzzles:
+  maze_square:
+    - planning
+  maze_round:
+    - planning
+  sliding_puzzle:
+    - planning
+  jigsaw_puzzle:
+    - attribute_grounding
+  hanoi_tower:
+    - planning
+  leave_parking_lot:
+    - planning
+  polyform_tiling:
+    - spatial
+    - planning
+  euler_path:
+    - temporal
+    - planning
+
+visual_organization:
+  sorting:
+    - attribute_grounding
+    - planning
+  pick_unique:
+    - attribute_grounding
+    - spatial
+  color_mix:
+    - attribute_grounding
+    - physics
+  object_packing:
+    - attribute_grounding
+    - affordance
+  classify_blocks:
+    - attribute_grounding
+    - planning
+
+
+
+spatiotemporal_dynamics:
+  rolling_dice:
+    - spatial
+    - temporal
+  recover_2d_net:
+    - spatial
+    - planning
+  expand_3d_to_2d:
+    - spatial
+  light_reflection:
+    - physics
+  section_3d_figure:
+    - spatial
+  clock_running:
+    - temporal
+  gears:
+    - spatial
+    - temporal
+
+
+
+physical_manipulation:
+  rope_untangle:
+    - topology
+    - physics
+  untie_knot:
+    - topology
+    - physics
+  unhook_ring:
+    - planning
+    - physics
+  tool_use_common:
+    - affordance
+    - physics
+  tool_use_uncommon:
+    - affordance
+    - physics
+  block_assembly:
+    - spatial
+    - planning
+  remove_obstacle:
+    - affordance
+    - physics
+
+
+  
+  
