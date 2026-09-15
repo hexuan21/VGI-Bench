@@ -1,0 +1,105 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite the associated research paper below.
+title: 'VGI-Bench: Probing Visual Intelligence in Video Generation Models'
+authors:
+- family-names: He
+  given-names: Xuan
+- family-names: Wei
+  given-names: Cong
+- family-names: Cheng
+  given-names: Yuhao
+- family-names: Ma
+  given-names: Linrui
+- family-names: Zhang
+  given-names: Yuxuan
+- family-names: Li
+  given-names: Zuojun
+- family-names: Wen
+  given-names: Yuhao
+- family-names: Jiang
+  given-names: Jize
+- family-names: Liu
+  given-names: Zeyi
+- family-names: Hao
+  given-names: Yuren
+- family-names: Cai
+  given-names: Songcheng
+- family-names: Wu
+  given-names: Keming
+- family-names: Du
+  given-names: Penghui
+- family-names: Zou
+  given-names: Kai
+- family-names: Yang
+  given-names: Rui
+- family-names: Sun
+  given-names: Chenkai
+- family-names: Yang
+  given-names: Ke
+- family-names: Nie
+  given-names: Ping
+- family-names: Allen
+  given-names: Kelsey R
+- family-names: Wang
+  given-names: Chenglong
+- family-names: Galley
+  given-names: Michel
+- family-names: Gao
+  given-names: Jianfeng
+- family-names: Zhai
+  given-names: ChengXiang
+url: https://github.com/hexuan21/VGI-Bench
+preferred-citation:
+  type: article
+  title: 'VGI-Bench: Probing Visual Intelligence in Video Generation Models'
+  authors:
+  - family-names: He
+    given-names: Xuan
+  - family-names: Wei
+    given-names: Cong
+  - family-names: Cheng
+    given-names: Yuhao
+  - family-names: Ma
+    given-names: Linrui
+  - family-names: Zhang
+    given-names: Yuxuan
+  - family-names: Li
+    given-names: Zuojun
+  - family-names: Wen
+    given-names: Yuhao
+  - family-names: Jiang
+    given-names: Jize
+  - family-names: Liu
+    given-names: Zeyi
+  - family-names: Hao
+    given-names: Yuren
+  - family-names: Cai
+    given-names: Songcheng
+  - family-names: Wu
+    given-names: Keming
+  - family-names: Du
+    given-names: Penghui
+  - family-names: Zou
+    given-names: Kai
+  - family-names: Yang
+    given-names: Rui
+  - family-names: Sun
+    given-names: Chenkai
+  - family-names: Yang
+    given-names: Ke
+  - family-names: Nie
+    given-names: Ping
+  - family-names: Allen
+    given-names: Kelsey R
+  - family-names: Wang
+    given-names: Chenglong
+  - family-names: Galley
+    given-names: Michel
+  - family-names: Gao
+    given-names: Jianfeng
+  - family-names: Zhai
+    given-names: ChengXiang
+  year: 2026
+  url: https://arxiv.org/abs/2608.19583
+  doi: 10.48550/arXiv.2608.19583
+  journal: arXiv

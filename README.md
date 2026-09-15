@@ -90,6 +90,9 @@ The judge defaults to `google/gemini-3-flash-preview`; put your API key in
 
 ## Citation
 
+Machine-readable paper metadata is available in [`CITATION.cff`](CITATION.cff),
+with the associated paper as the preferred citation.
+
 ```bibtex
 @misc{he2026vgibenchprobingvisualintelligence,
       title={VGI-Bench: Probing Visual Intelligence in Video Generation Models},
